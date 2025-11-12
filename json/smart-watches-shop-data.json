@@ -1,0 +1,74 @@
+[
+  {
+    "image": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/black-sport-watch-600x600.png",
+    "title": "Black Sports Watch",
+    "categoryTitle": "Sports",
+    "price": 499
+  },
+  {
+    "image": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/black-watch-600x600.png",
+    "title": "Black Watch",
+    "categoryTitle": "Classic",
+    "price": 599
+  },
+  {
+    "image": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/watch-1-600x600.png",
+    "title": "Chrome Watch",
+    "categoryTitle": "Modern",
+    "price": 399
+  },
+  {
+    "image": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/watch-2-600x600.png",
+    "title": "Classic Watch",
+    "categoryTitle": "Classic",
+    "price": 499
+  },
+  {
+    "image": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/custom-watch-600x600.png",
+    "title": "Custom Watch",
+    "categoryTitle": "Sports",
+    "price": 299
+  },
+  {
+    "image": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/gold-watch-600x600.png",
+    "title": "Gold Watch",
+    "categoryTitle": "Bestsellers",
+    "price": 699
+  },
+  {
+    "image": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/navy-blue-watch-600x600.png",
+    "title": "Navy Blut Watch",
+    "categoryTitle": "Bestsellers",
+    "price": 399
+  },
+  {
+    "image": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/pink-watch-600x600.png",
+    "title": "Pink Watch",
+    "categoryTitle": "Uncategorized",
+    "price": 399
+  },
+  {
+    "image": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/red-sport-watch-600x600.png",
+    "title": "Red Sports Watch",
+    "categoryTitle": "Sports",
+    "price": 699
+  },
+  {
+    "image": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/rose-gold-watch-600x600.png",
+    "title": "Rose Gold Watch",
+    "categoryTitle": "Modern",
+    "price": 599
+  },
+  {
+    "image": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/green-watch-600x600.png",
+    "title": "Sports Watch",
+    "categoryTitle": "Sports",
+    "price": 35
+  },
+  {
+    "image": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/white-sports-watch-600x600.png",
+    "title": "White Watch",
+    "categoryTitle": "Bestsellers",
+    "price": 18
+  }
+]

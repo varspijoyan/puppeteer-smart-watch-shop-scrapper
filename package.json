@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "dependencies": {
     "agent-base": "^7.1.4",
     "ansi-regex": "^5.0.1",
